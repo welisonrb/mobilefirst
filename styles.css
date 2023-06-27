@@ -1,3 +1,10 @@
+@import url("styles/")
+
 :root {
---cor-de-fundo:var(--cor-de-fundo)
+    --cor-de-fundo: #FFFFFF;
+    --branco: #FFFFFF; 
+}
+
+body {
+    background-color: var(--cor-de-fundo);
 }
